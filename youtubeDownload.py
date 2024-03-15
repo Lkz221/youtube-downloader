@@ -2,7 +2,6 @@ from pytube import YouTube as y
 from random import randint
 from time import sleep
 import os
-from platform import uname
 from colorama import Fore,Style
 reset = Style.RESET_ALL 
 nome = uname().node
