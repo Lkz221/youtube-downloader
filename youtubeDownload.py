@@ -1,6 +1,5 @@
 from pytube import YouTube as y
 from random import randint
-from tqdm import tqdm
 from time import sleep
 import os
 from platform import uname
